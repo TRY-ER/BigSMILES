@@ -59,5 +59,5 @@ For quickstart, tutorials, reference material, BigSMILES, everything...  see doc
 * ladder polymers
 * Validation is not comprehensive
 * Not all aromatic rings are processed correctly at the moment 
+
 ... Lots more to come
-* 
